@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Finance Manager</title>
+</head>
+<body>
+
+<h1>Personal Finance Manager</h1>
+
+<form method="POST">
+
+    {% csrf_token %}
+
+    <label>Amount:</label>
+    <input type="number" name="amount">
+
+    <br><br>
+
+    <label>Category:</label>
+    <input type="text" name="category">
+
+    <br><br>
+
+    <label>Description:</label>
+    <input type="text" name="description">
+
+    <br><br>
+
+    <label>Date:</label>
+    <input type="date" name="date">
+
+    <br><br>
+
+    <button type="submit">
+        Save Expense
+    </button>
+
+</form>
+
+</body>
+</html>
