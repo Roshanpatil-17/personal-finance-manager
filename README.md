@@ -112,27 +112,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of:
-
-- Login Page
-- Dashboard
-- Add Transaction
-- Expense History
-- Reports
-
-Example:
-
-```
-screenshots/
-    dashboard.png
-    transactions.png
-    reports.png
-```
-
----
-
 ## 📊 Future Improvements
 
 - User Authentication
