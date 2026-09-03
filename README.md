@@ -178,7 +178,7 @@ This project is licensed under the MIT License.
 **Roshan Patil**
 
 - GitHub: https://github.com/Roshanpatil-17
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *(https://www.linkedin.com/in/roshan-patil-4b9226240/)*
 
 ---
 
